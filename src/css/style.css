@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+}
+.box {
+  display: inline-block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  text-align: center;
+  color: rgb(134, 27, 27);
+  font-weight: bold;
+  background-color: rgb(255, 217, 0);
+  border: 2px solid rgb(182, 38, 38);
+}
