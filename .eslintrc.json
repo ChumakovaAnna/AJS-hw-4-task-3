@@ -20,6 +20,10 @@
             "error",
             "LabeledStatement",
             "WithStatement"
+        ],
+        "quotes": [
+            "error",
+            "double"
         ]
     }
 }
